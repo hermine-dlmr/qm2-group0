@@ -1,1 +1,1 @@
-# qm2-group0
+# QM2 - Data science and visualisation
