@@ -1,0 +1,17 @@
+These prototypes have been made in excel to get a better understanding of the topic, and will later be replicated using python. 
+The excel file has been added under the 'Presentation' File 
+
+Scatter plot of percentage of households with food insecurity versus median household income: 
+There is a clear negative correlation; as median household income increases, the percentage of households with food insecurity decreases. 
+This trend is as we would expect, yet there are some interesting outliers or states worth noting. 
+For example, the red coloured dot represents Maryland, which has the highest income yet not the lowest level of food insecurity (as one would expect). 
+The orange dot represents the US average, and so it is interesting to note those states that are doing exceptionally well (i.e below average income yet below average food insecurity)
+as well as states doing exceptionally poorly in terms of food insecurity despite having an above average median income. 
+It will therefore be interesting to analyse WHY this is the case - what are certain states doing better than others in terms of combating food insecurity.
+
+Scatter plot of percentage of households with food insecurity versus rates of unemployment: 
+The trend is what we would expect: as unemployment increases, levels of food insecurity increases. 
+As with the previous scatter plot, the orange dot represents the US average and the orange lines shows the different quadrants that each state falls into. 
+Once again it will be useful to further analyse the outliers as well as those states with a high unemployment yet below average food insecurity rate (or vice versa)
+in order to understand whether there are more significant causes for food insecurity in those states or whether effective policies have improved the situations in certain states? 
+When these scatter plots are recreated using python, we will be able to do a deeper statistical analysis of them.
