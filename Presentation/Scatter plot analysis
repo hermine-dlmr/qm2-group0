@@ -1,5 +1,5 @@
 These prototypes have been made in excel to get a better understanding of the topic, and will later be replicated using python. 
-The excel file has been added under the 'Presentation' File 
+The excel file has been added under the 'Presentation' File as well as screenshots of the graphs.
 
 Scatter plot of percentage of households with food insecurity versus median household income: 
 There is a clear negative correlation; as median household income increases, the percentage of households with food insecurity decreases. 
@@ -15,3 +15,9 @@ As with the previous scatter plot, the orange dot represents the US average and 
 Once again it will be useful to further analyse the outliers as well as those states with a high unemployment yet below average food insecurity rate (or vice versa)
 in order to understand whether there are more significant causes for food insecurity in those states or whether effective policies have improved the situations in certain states? 
 When these scatter plots are recreated using python, we will be able to do a deeper statistical analysis of them.
+
+Scatter plot of percentage of food insecurity versus percentage of SNAP (Supplemental Nutrition Assistance Programs) recipients in US states in 2019:
+When analysing food insecurity across states it is also interesting to note the policies which have already been introduced and their flaws. 
+This graph shows the percentage of the population that are recipients of the Supplemental Nutrition Assistance Programs. 
+The states with low levels of SNAP penetration with a high average of food insecurity implies that outreach is needed in these states. 
+On the other hand, the states with high SNAP recipients and high food insecurity shows a flaw in the implementation of these policies. 
