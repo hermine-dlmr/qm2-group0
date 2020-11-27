@@ -8,11 +8,10 @@ These include: median household income, unemployment rate, agricultural producti
 analyse outliers
 e.g.:  states with relatively low food insecurity but very low median household income which would normally contribute to a high level of food insecurity
 
-examine how levels of food insecurity (variables) are related to different demographic groups
-e.g.: how the unemployment rate changes for different ethnic groups & how this contributes to them being more or less affected by food insecurity
-
 temporal analysis: looking at the current pandemic. We will determine which states are most affected by COVID-19/ analyse how the number of cases correlates to food insecurity in these states. 
 We will look at how covid-19 has impacted our variables: e.g. income and unemployment/ food chain/ etc.
+examine how Covid-19 affected food insecurity in different demographic groups
+e.g.: how the unemployment rate changed during Covid-19 for different ethnic groups & how this contributes to them being more or less affected by food insecurity
 
 2. Techniques to be used
 
