@@ -2,17 +2,17 @@ Plan/ Datasets
 
 1. Plan
 
-understand food insecurity across the whole US, by studying different variables that we believe are in direct correlation to the level of food insecurity
+understand food insecurity across the whole US: examine different variables that we believe are in direct correlation to the levels of food insecurity
 These include: median household income, unemployment rate, agricultural production of a state, household structure (example single households, families with children), and the overall food waste
-analyse each state, by taking named variables into account and finding the correlations level of food insecurity
 
 analyse outliers
 e.g.:  states with relatively low food insecurity but very low median household income which would normally contribute to a high level of food insecurity
 
-examine how variables are related to different demographic groups
+examine how levels of food insecurity (variables) are related to different demographic groups
 e.g.: how the unemployment rate changes for different ethnic groups & how this contributes to them being more or less affected by food insecurity
 
-temporal analysis, looking at the current pandemic. We will determine which states are most affected by COVID-19/ analyse how the number of cases correlates to food insecurity in these states. We will look at how covid-19 has impacted our variables so for example income and unemployment/ food chain/ etc.
+temporal analysis: looking at the current pandemic. We will determine which states are most affected by COVID-19/ analyse how the number of cases correlates to food insecurity in these states. 
+We will look at how covid-19 has impacted our variables: e.g. income and unemployment/ food chain/ etc.
 
 2. Techniques to be used
 
