@@ -1,0 +1,22 @@
+Calculating food insecurity rate for states:
+
+Use different variables to Feeding America (variables that have the highest correlation)
+https://www.feedingamerica.org/sites/default/files/2020-09/Map%20the%20Meal%20Gap%202020%20Technical%20Brief-Updated.pdf → pg 7
+Evolution of food insecurity over the years until 2020 with Covid-19 projections (add the projected unemployment/poverty % increase and create visualisation)
+
+
+Brainstorming ideas:
+
+Map the meal gap study uses these determinants to show their relationship with food insecurity:
+non-undergraduate student poverty
+unemployment
+median income
+homeownership					
+disability status 
+Since Covid-19 has affected unemployment, hence income levels and certain social groups have been hard-hit, we can add some new variables that we’ve found to be closely correlated to food insecurity in our background research/literature review to this equation:
+household structure (single-parent)
+ethnicity
+demographic of agricultural workers ?
+distribution of food to states ?
+Create visualisations with Covid-19 food insecurity projections
+Critique current food policies according to findings
