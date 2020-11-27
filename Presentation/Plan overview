@@ -1,9 +1,14 @@
-Study food insecurity across the USA, highlighting different variables: 
+PLAN
+
+1. Study food insecurity across the USA, highlighting different variables: 
 income, unemployment, agricultural production, household structure, food waste for all states
-Find the correlation between the level of food insecurity and each variable
-Analysing Outliers
-COVID-19 impact: 
-Bubble graph to show COVID-19 cases per state.
-COVID-19 impact on variables/ food insecurity 
-Identify which groups were affected the most and why
-Is it statistically significant?
+
+2. Find the correlation between the level of food insecurity and each variable
+
+3. Analysing Outliers
+
+4. COVID-19 impact: 
+  a. Bubble graph to show COVID-19 cases per state.
+  b. COVID-19 impact on variables/ food insecurity 
+  c. Identify which groups were affected the most and why
+  d. Is it statistically significant?
