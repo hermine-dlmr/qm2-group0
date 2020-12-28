@@ -2,3 +2,10 @@ Analysing the effects of COVID-19 on food insecurity is highly relevant.
 One idea is to plot the variable with the greatest correlation against food insecurity as a bubble graph with the bubbles representing the number of COVID-19 transmissions.
 This will show that, for example, states with a currently low level of food insecurity but with a large number of COVID-19 transmissions, may suffer more in the future.
 Could be interesting to plot a graph of the proportion of service sector per state seeing as this is the sector that's worst hit by COVID-19
+
+Correlation Unemployment vs. Food insecurity
+Unemployment rate [2000-2020], etc.:
+https://data.bls.gov/timeseries/LNS14000000?years_option=all_years
+: https://www.bls.gov/web/empsit/cpsee_e16.htm https://www.stlouisfed.org/publications/regional-economist/third-quarter-2020/jobs-hit-hardest-covid-19 
+https://www.bls.gov/opub/reports/race-and-ethnicity/2018/home.htm#:~:text=The%20employment%E2%80%93population%20ratio%20was,and%2063.2%20percent%20for%20Hispanics.
+-> find data for food insecurity 2000-2020
