@@ -36,7 +36,7 @@ Cleaning
 - Excel for a global formating 
 - Google Collaboratory to clean the dataframes
 
-Processing 
+Processing (different Python libraries were imported)
 - Pandas -> Scatter plots
 - Seaborn -> Bar charts 
 - Matplotlib -> Scatter plots / Bar charts 
