@@ -6,11 +6,48 @@ To create the various types of visualisations, we searched for online dataset fo
 For each state, we have decided to focus on different parameters: 
 the level of food insecurity, the level of income, the level of umemployment, the number of COVID-19 cases per 100,000 to understand how each variable influences the level of food insecuerity in each state. 
 
-To achieve the aims of our first part, we have plotted scatter plots for each parameter VS the level of food insecurity for each state. For each graph, we have decided to conduct statistical and contextual analysis to place the visualisations back into the context of the project.
+To achieve the aims of our first part, we have plotted scatter plots for each parameter VS the level of food insecurity for each state.
 
-In the second part, we have decided to add the covid-19 variable and 
+In the second part, we have decided to add the covid-19 variable and to analyse the impact it had on the parameter considered in the first part. 
+The bubble chart has seemed the most efficient visualisation to display the correlation between three parameters including the number of covid-19 cases and the level of food insecurity. The main advatange of this is the ability to display data about a third dimension.
+The second part also aims to explain racial disparities using the income and unemployment variables. This is were the timeline graphs will be used to show to evolution over time of those parameters.
 
 
-We have also produced a bubble chart 
+In our third part, we have decided to produce a 4 way SNAP graph and use a more political approach to tackle the topic.
 
-first part of our project 
+
+Overall, we have decided to conduct statistical and contextual analysis for each graph to place the visualisations back into the context of the project.
+
+
+Methodology
+
+Context 
+- Main determinants of food insecurity in the US
+- The impact of covid-19 on food insecurity 
+
+Datasets for each state
+- Level of income 
+- Level of unemployment 
+- Ethnicities
+- Number of covid-19 cases per 100,000 (11 nov 2020)
+- Number of people who suffer from food insecurity 
+
+Cleaning 
+- Excel for a global formating 
+- Google Collaboratory to clean the dataframes
+
+Processing 
+- Pandas -> Scatter plots
+- Seaborn -> Bar charts 
+- Matplotlib -> Scatter plots / Bar charts 
+- Plotly -> Chloropleth maps
+
+Analysing
+- Statiscal analysis (e.g. .describe() command)
+- Contextutal analysis
+
+Presenting 
+- Displaying the visualisations on the website
+
+
+
