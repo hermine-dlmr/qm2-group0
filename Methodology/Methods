@@ -51,3 +51,21 @@ Presenting
 
 
 
+All the data was processed using the Python programming language. The data came from various websites ...
+
+
+Cleaning 
+Once the data was downloaded from ... An excel file was created and formated globally. Then, it was converted into a .csv file in order to use the Pandas Python library and other libraries to create the different visualisations. The data we selected was recent - between 2010 and 2020 - in order to have up-to-date visualisations.
+
+Processing
+The processing of the data involved the use of different Python libraries namely Pandas for scatter plots, Seaborn for bar charts, Matplotlib for scatterplots and Plotly for the chloropleth map and to create interactive graphs. 
+
+Analysing
+A statistical and a contextual analysis were conducted on each graph. The mathematical analysis involved the .describe() command to obtain the mean, the mode, the median, etc. It helped us to understand more specifically the distribution of the data while the contextual analysis aimed to put back the various visualisations back into the context of the project. 
+
+Presenting 
+Once the visualisations were created, we use the screeshot command to add them into the website. We tried to spread them evenly throughout the websites in order to achieve an optimum balance between visualations and explanations. The idea was to ensure an adequate workflow throughout the reading of the website.
+
+
+
+
