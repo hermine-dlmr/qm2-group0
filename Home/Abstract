@@ -1,1 +1,44 @@
 # Abstract
+Purpose and motivation
+
+We are a group of University College London students interested in the issue of food insecurity in the US. With this project, our goal is to shed light on food insecurity and reveal overlooked issues with a state by state analysis. We also aim to explore food insecurity in the context of the COVID-19 crisis and the efficacy of food aid programmes to combat the hardships that come with this issue.
+
+​
+
+   Problem
+
+Being a developed and leading country in the world, at first glance, food insecurity may not seem like a relatively serious issue in the USA. Nonetheless, certain disparities and problems within the social fabric of the US have left 35 million Americans struggling to access adequate food to lead a healthy life. There is already existing research on food insecurity in the US, however, we wanted to expand our understanding of previous findings by doing a state by state analysis of outliers. Moreover, with the current pandemic being arguably the most important event of 2020, we decided to investigate its impact on food insecurity, analysing simultaneously SNAP participation.  Therefore, our research question is:
+
+“What are the main determinants of food insecurity in the United States?”
+
+​
+
+   Approach
+
+We collected our data from various sources, mainly from federal agencies such as the US Census Bureau and the US Bureau of Labour Statistics. Various types of visualisations were used for different purposes: • interactive timeline graphs to show the evolution of food insecurity and unemployment
+
+• interactive choropleth maps to show how food insecurity is distributed across the US
+
+• scatterplots, bubble charts, bar charts, and interactive graphs to show relationships between different variables such as food insecurity, unemployment, race/ethnicity, SNAP participation, political affiliation.
+
+Contextual information and statistical analysis helped create a coherent narrative. We have decided to use 2019 data in Part 1, since food insecurity and unemployment rates had reached very low levels. This ultimately allowed us to use our findings from Part 1 as a reference point to show the COVID-19 changes to food insecurity in 2020.
+
+​
+
+   Research Question
+
+   What are the main determinants of food insecurity in the United States?
+
+We have decided to focus our research on the main determinants of food insecurity in the United States and how the situation has evolved due to the Covid-19 pandemic. 
+
+​
+
+ 
+
+  Results:
+
+Causes → Through statistical analysis of the 2019 data per state, we have found a strong negative correlation between food insecurity and median household income, a moderately positive correlation between food insecurity and unemployment and a very weak correlation between ethnicity and food insecurity. 
+
+COVID-19 → We have found the correlation (r-value) between rates of unemployment and food insecurity over the past 20 years to be very strong. Our data and visualisations on unemployment and food insecurity also reveal that the pandemic has deepened ethnic/racial disparities.
+
+SNAP → Our visualisations reveal that political party influences SNAP participation in different states. Over the years, moreover, SNAP participation has globally increased in the US.
