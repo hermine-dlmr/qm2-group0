@@ -1,0 +1,15 @@
+
+The timeline graphs for food insecurity and unemployment over the past two decades (Graphs 3.1 and 3.2) both follow a very similar trend - as it can be seen by the lines, rates for both increase and decrease at relatively similar times. 
+This strong correlation between food insecurity rates and unemployment rates between 2000 and 2020 is supported by the high r-value (0.95). 
+Moreover, this correlation is statistically significant and did not occur by chance which is reflected by the very small p-value (1.8*10^-11 << 0.05). 
+
+ 
+
+These statistical findings consolidate the idea that unemployment is one of the main determinants of food insecurity, hence it significantly affects the levels of food insecurity.
+
+ 
+
+However, it is important to mention that correlation does not automatically equal causality. 
+This statistical analysis cannot determine whether or not unemployment single-handedly causes food insecurity or vice versa. 
+In fact, after April 2020, food insecurity and unemployment rates stop following the same correlated pattern. 
+Further analysis of this can be found here.
